@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To those that sit in counsel for ordering the affairs of the nation, &amp;c. a visitation, / by one of the Lords servants called a Quaker.</title>
+            <author>Anderdon, John, 1624?-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75323</idno>
+            <idno type="STC">Wing A3083</idno>
+            <idno type="STC">ESTC R170303</idno>
+            <idno type="EEBO-CITATION">45789136</idno>
+            <idno type="OCLC">ocm 45789136</idno>
+            <idno type="VID">172450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172450)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To those that sit in counsel for ordering the affairs of the nation, &amp;c. a visitation, / by one of the Lords servants called a Quaker.</title>
+                  <author>Anderdon, John, 1624?-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Anderdon.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Early works to 1800.</term>
+               <term>Prophecy --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172450:1" rendition="simple:additions"/>
+            <p>TO THOSE that ſit in COUNSEL For Ordering the AFFAIRS OF THE NATION, <hi>&amp;c.</hi> A Viſitation, by one of the LORDS SERVANTS Called a <hi>Q<g ref="char:V">Ʋ</g>AKER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172450:2"/>
+            <pb n="1" facs="tcp:172450:2"/>
+            <head>To thoſe that ſit in Counſel for <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the af<g ref="char:EOLhyphen"/>fairs of the Nation, &amp;c.</head>
+            <head type="sub">A Viſitation, by one of the Lords Servants called a Q<g ref="char:V">Ʋ</g>AKER.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>THE Lord will viſit his Seed in righteouſneſſe, that the Na<g ref="char:EOLhyphen"/>tions of the earth may know and ſee that its the determinati<g ref="char:EOLhyphen"/>on of the Lord to exalt his <hi>Son</hi> upon the holy hill of <hi>Sion,</hi> to <hi>Rule</hi> and Reigne in the Kingdoms of men, untill all prin<g ref="char:EOLhyphen"/>cipalities and Powers are ſubdued, and brought ſubject to his righteous Government, the borders whereof ſhall reach from one end of the earth to the other, and of the increaſe thereof there ſhall be no end. And whoſoever will not bend and bow to his righteous Scepter, he will Rule them with an Iron Rod, he will ſhake and overturn all the powers of the earth, and ſcatter the wicked in their Imaginations, he will turn the wiſdom of the wiſe into fooliſhneſſe, and bring the underſtanding of the prudent to nought, he will ariſe unto the prey, he will gather the Nations, he will aſſemble the Kingdoms, and upon them will he pour out the vialls of his wrath, then will he return, and give his people a pure Language, even the Language of <hi>Canaan,</hi> where ſongs of deliverance ſhall be ſung, and everlaſting peace and reſt ſhall be known, even in the Prince of peace who is now appearing the ſecond time without ſin unto ſalvation. And the prince of this World muſt be Judged, and all thoſe condemned by the <hi>Ever<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſting Light of the Son of God,</hi> that obey not the everlaſting Go<g ref="char:EOLhyphen"/>ſpel, now again to be preached to all Nations; even that <hi>Light</hi> which is in the World, but the World knows him not, which ſhineth in the hearts of all men (in the darkneſſe) and giveth them that believe in it, and fol<g ref="char:EOLhyphen"/>low it, the knowledge of the glory of God in the face of Jeſus Chriſt, and brings them that are turned to it out of darkneſſe into the light of life, from under Satans power, into the power of God.</p>
+            <p>In ſuch glory and excellency of power ſhall Chriſt Jeſus the Light of the World appear, that the Nations of them that ſhall be ſaved ſhall be gather<g ref="char:EOLhyphen"/>ed to the brightneſſe of his appearance, even thoſe that love the light, and bring their deeds unto the light to be tryed by the ſpirit of Judgement whether they are wrought in God, through which all the redeemed ones muſt paſſe, even through the ſirey tryal, that they may be purified, and all their droſſe done away and conſumed, that they may be a pure and ho<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:172450:3"/>people unto the Lord for ever, a people of his praiſe, the converts of righteouſneſſe that muſt inhabit the holy City of our God, into which no unrighteous thing can enter, where ſhall be peace and fulneſſe of Joyes for evermore.</p>
+            <p>But with the wicked it ſhall not be ſo with them, Wo and miſery ſhall be their portion for ever, even to ſuch as obey not the Goſpel of God, but account the <hi>blood</hi> of the Covenant, the <hi>life</hi> of Chriſt, the <hi>Light</hi> of the world an unholy thing, ſuch as will not return at the reproofs of the Lord, but caſt his Counſel behinde their backs, that continue the <hi>ſervants of ſin unto death,</hi> ſhall for ever have their portion with hypocrites in that lake that burns with fire and brimſtone, they that hate and will not turn to the Light, ſhall know the torment of everlaſting burnings, their worm ſhall not dye, their fire ſhall not be quenched,</p>
+            <p>Therefore let all men every where, while it is called to day, repent and return at the reproofs of the Lord, which are the Inſtructions of life, that ſo they may not periſh, but be ſaved in the <hi>Lambs light of Life:</hi> The Ma<g ref="char:EOLhyphen"/>ſter of the houſe is riſen, Strive therefore to enter while the door is open, Neglect not the day of your viſitation, leaſt you be for ever ſhut out of Gods Kingdom; the time haſtens, the Spirit of the Lord is grieved and ſhall not alwayes ſtrive with men. Though ye have eaten and drunk in his preſence, and he hath taught in your ſtreets, yet ye would not hear<g ref="char:EOLhyphen"/>ken to his voyce, <hi>Depart</hi> therefore ye <hi>workers of Iniquity,</hi> ſhall the Lord ſay, I know you not.</p>
+            <p>And now yee that are the Rulers and people of theſe Nations, Know that our God is the mighty God of <hi>Jacob,</hi> a God gracious, long ſuffering and of great goodneſſe, who hath wrought wonders for the deliverance of his people out of captivity and bondage, his promiſe being unto the <hi>Seed</hi> in whom we are the called of the Lord, for whoſe ſake the Lord hath lengthened out the exceeding riches of his love and unutterable mercies to the people of theſe Nations, to the end that if they would yet at length, after ſo many overturnings, return and own the Lord Jeſus Chriſt the <hi>light</hi> of the world to be their King and Lawgiver, on whom the government is laid, whoſe right it is to reigne, in whom Reformation and Liberty is known, even that wherein the Truth makes <hi>us</hi> free, They might in him be the beauties of holineſs, the glory of Nations, even the firſt fruits of the firſt reſurrection from the <hi>dead</hi> forms and worſhips of the World, which are abominable in the ſight of the Lord; yea, they have been ſo long dead, without the Spirit of life, that they even ſtink in the noſtrills of our God who is the living God, and the <hi>dead</hi> praiſe him not.</p>
+            <p>Many have been the opportunities put into the hands of thoſe in autho<g ref="char:EOLhyphen"/>rity in theſe Nations to do the work of the Lord in their generations, but alas they ſtanding not in the Counſel of the Lord, have had a prize put into their hands, but have not had hearts to make uſe of it, which ſhall be reckoned to their accounts in the day of the Lord; Nay, in ſtead of doing the work of the Lord, which is to break the bonds of the wicked, and to let the oppreſſed go free, to puniſh and to be a terrour to evil doers, and to encourage thoſe that do wel, they have (for the moſt part) ſtrength<g ref="char:EOLhyphen"/>ened
+<pb n="3" facs="tcp:172450:3"/>the hands of the wicked againſt the <hi>Juſt,</hi> which hath long cryed <hi>for Juſtice and righteouſneſſe in the earth,</hi> they have formed terrible weapons a<g ref="char:EOLhyphen"/>gainſt the Lords people, but they have not proſpered, they have ſought deep to hide their counſells from the Lord, they would not have him to reigne over them unto whom all power and authority in heaven and earth is given, but have taken counſell with the ungodly to put the Heir of life to death, to crucifie and deſtroy his appearance, in themſelves, and in his choſen ones, unto whom all the Nations of the Earth muſt bow; he who hath been from the beginning to the Greeks fooliſhneſſe, and to the Jewes a ſtumbling block, at which the <hi>Great ones</hi> in the wiſdom of the World, which knows not God, have ſtumbled and have been broken, ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhame and confuſion hath and ſhall follow all thoſe that joyn themſelves to <hi>Babylons builders,</hi> which are in their own inventions, which is in the tranſgreſſion and alienation from God, who reject and ſet at nought Chriſt Jeſus the chief Corner Stone, whoſe building is in ſpirit and truth, a City whoſe Maker and Builder is God, in whom we truſt.</p>
+            <p>That little ſtone cut out of the Mountains without hands, and ſo con<g ref="char:EOLhyphen"/>temned by the Worlds builders, is laid to the foot of the Images ſet up in all the Earth, before which <hi>Dagon</hi> ſhall fall, <hi>Bell</hi> and all the Gods of the Heathen (the great devourers of Corn and Wine, and the fat things of the earth) ſhall be <hi>confounded and periſh,</hi> and they that have made them and truſt in them, ſhall be like unto them; and no Image (though the head and face thereof be of Gold and Silver) ſhall ſtand in the earth, but the Image of our God in Chriſt Jeſus, who is the expreſſe Image of the Fa<g ref="char:EOLhyphen"/>ther, made manifeſt in the Saints in Righteouſneſſe and true Holineſſe, where the <hi>reformation</hi> into the likeneſſe of Gods image is to be known, <hi>Chriſt in us</hi> the hope of Glory.</p>
+            <p>But alas, alas, the leaders of this people have cauſed them to erre, and to worſhip the Golden Image of the Beaſt, even a thing of nought, yea and his image that in truth and ſimplicity muſt appear, hath been marred more then any, by this crooked and perverſe generation of men, who are in the ſubtilty, wherein the enmity ſtands againſt the ſeed of God, in the fleſh they are, which luſteth againſt, and perſecutes that birth which is of the ſpirit which doth the will of God.</p>
+            <p>A horrible thing hath been committed in the land, they have forſaken the Lord the fountain of living waters, and have hewen out unto them<g ref="char:EOLhyphen"/>ſelves broken ciſterns that will hold no water; The Prieſts have ſpoken lies in the Name of the Lord, and the people love to have it ſo, being made drunken with the golden cup of the whores <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ornications that they have reeled and ſtaggered to and fro, from one form in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o another, and never knew a forming again into Chriſt Jeſus; nay they have even made agreement as it were with death and hel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſlay and bury the <hi>juſt,</hi> and have prevailed with the rulers of the people for a Commiſſion even by a Law to ſeal the Sepulchre, that the <hi>witneſſe</hi> of God (the <hi>Lamb</hi> ſlain from the foun<g ref="char:EOLhyphen"/>dation of World in the tranſgreſsion of man from the life in God) may not riſe again to trouble and torment the World which lyeth in wickedneſſe, and to execute righteous judgements upon the workers of iniquity, <hi>this is he
+<pb n="4" facs="tcp:172450:4"/>that the World hates,</hi> becauſe their deeds are evil.</p>
+            <p>And amongſt other bad Laws of this Nation that burthens the conſci<g ref="char:EOLhyphen"/>ence of the juſt, which the ſufferings of Gods people have declared to the Rulers of theſe Nations, thoſe for payment of Tythes are moſt abo<g ref="char:EOLhyphen"/>minable and unjuſt; was ever the like heard of, that theft, oppreſſion and wickedneſſe ſhould be maintained by a law, amongſt a people called a Chriſtian Common-wealth? the Prieſts of the Nation (which come not in by the door into the ſheep-fold, are theeves and robbers) having ſtollen the words of Chriſt, the Prophets and Apoſtles (in their converſations de<g ref="char:EOLhyphen"/>nying the life and power;) yea and not ſingly and onely ſo, but bringing forth the divinations and inventions of their own brains, which are dead and raven from the ſpirit of life, that ſuch wares and merchandize ſhould be inforced upon a people at ſo dear a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, whether they will, or no, like them or not, they muſt pay for them, as the blood of many of the Lords people, and the barbarous ſpoyling of their goods doth ſadly witneſſe in this Nation; Is not this unjuſt and even a rape upon the Conſciences of Men? I am ſure of it, it is that the Lord hates, and his wrath is kindled and burns like an oven againſt this wicked generation of men, (that will not have the Lord to be the Teacher of his people) thoſe from whoſe lies and lightneſſe abomination is gone forth into all the Land, that the <hi>people periſh</hi> for want of knowledge; yea and the blood of the ſlain ſhall be re<g ref="char:EOLhyphen"/>quired at the hands of thoſe that have a power given them, and do not re<g ref="char:EOLhyphen"/>move and deſtroy all the high places of Baal, thoſe ſtumbling-blocks ſet up, that have cauſed thouſands to erre from the pure worſhip of God, which is in ſpirit and in truth, and have commi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted abominable whoredoms with the Gods of the Heathen, even thoſe inventions and likeneſſles that men in their corrupt natures, wills and wiſdoms (which is out of the ſear of God) have ſet up, acted and worſhiped, which manifeſts it <hi>ſelf</hi> to be a deceiver, for the comers thereunto are not cleanſed and ſaved from their ſins, they are not made perfect, but plain to all the children of light, that theſe worſhippers wax worſe and worſe, which is the character of delu<g ref="char:EOLhyphen"/>ded perſons; They do not confeſſe that Chriſt is come in the fleſh, for they live in the luſts of the fleſh, the luſt of the eye, and the pride of life, and this is the ſpirit of Antichriſt, they are of the World, therefore the World loves them and hears them, but us it hates.</p>
+            <p>What was the error of Bal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am? was it not the ſetting up of ſtumbling<g ref="char:EOLhyphen"/>blocks to the people of Iſrael for the wages of unrighteouſneſſe? and was Bal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am a falſe Prophet? and can theſe be true that are lovers of themſelves, ſeek their own, honour and praiſe of men, and make merchandize of ſouls for unjuſt gain? what can the higheſt profeſſor among them all (without the ſpirit of li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which is able of i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſelf to lead into all Truth, the which they may confeſſe in words but in deeds deny) do more from the letter of Scriptures then the vagabond Jews, the ſons of <hi>Sceva,</hi> the exorciſts, could do, who would caſt out Divels in the name of that Jeſus, whom they knew not, but as Paul preached who was a witneſſe of the life and power in himſelf, that caſts the unclean ſpirit out of the Creature; if they have a Goſpel, let them freely preach it, as the truth of the Goſpel directs, or let them that hires them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them their wages.</p>
+            <pb n="5" facs="tcp:172450:4"/>
+            <p>And let not ſuch an invented Idol of preaching any longer devoure by by a Law, ſo many hundred thouſand pounds a year in the land, and ſhed the blood of the innocent; I deny not the preaching of the Goſpel, but own it, and ſuch as are able Miniſters of the New Teſtament, which are not of the Letter but of the ſpirit; but ſuch merchandize upon the letter of the Scriptures I utterly deny; Yet verily I dearly own the Scriptures of truth, and in my meaſure witneſſe a unity with the ſpirit that gave them forth, which ſhews to every member his place and part in the body, and how and when to ſpeak the word in due ſeaſon, which is the rule and or<g ref="char:EOLhyphen"/>der of Saints.</p>
+            <p>But ſome may ſay; Hath not the Lords preſence been amongſt theſe peo<g ref="char:EOLhyphen"/>ple? They may plead that they have eaten and drunk in his preſence, yet workers of iniquity, ye muſt depart, I know you not ſaith the Lord. And it may be granted that ſometime ſince the war began in the Nation when they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> could forſake all for that meaſure of truth they then knew, when in ſtraits they had not an arme of fleſh to truſt to, when this day they knew not what to do the next, they ceaſing from man, and waiting upon the Lord in ſingleneſſe of heart for councel, he did oftentimes appear in deliver<g ref="char:EOLhyphen"/>ances according to and beyond their and our expectation, <hi>even ſo long</hi> as Iſrael followed the Ark of Gods covenant, the Tabernacle of Teſtimony where the Councel of the Lord was known, they went up to battel and proſpered; but when they went out of the Councel (from the witneſſe) of God, then they fell by the hand of their enemies; there are many in this Nation that in a meaſure did begin in the ſpirit, that will end in the fleſh; And ſalt that hath loft its favour, what is it good for, but to be eaſt to the dunghil. Come all again to know and follow (the Tabernacle of God which is with men,) the witneſſe of God in every particular, which ſhews men the way they ought to walk in, and therein they ſhall proſper.</p>
+            <p>Were all thoſe that were (in times paſt of their own accord) joyned to <hi>Baal-peor</hi> to be deſtroyed from amongſt the people of the Lord? And is the zeal of thoſe in authority in this Nation, once ſo eminent for the be<g ref="char:EOLhyphen"/>ginning of <hi>reformation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liberty</hi> (after ſo many revolutions, deliverances, in<g ref="char:EOLhyphen"/>gagements, and experiences of what is good, and what is evil) now ſo cold for the Lord of Hoſts, as not to <hi>remove</hi> and make void all thoſe <hi>bad laws</hi> that joyn people to or maintain falſe worſhips, or other wiſe burden and grieve the Conſcience of the Juſt, and aſmuch as in them lies, reſtrain the free operation of the ſpirit of life in Gods people, and bindes them as it were to ſeek for the living amongſt the dead.</p>
+            <p>How long, how long will men halt between two, If God be God then follow him, if <hi>Baal</hi> be God follow him; no man can ſerve two maſters, God and m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmon; Verily the Lord will not be mocked, and the Rulers and people of this Nation muſt not much longer ſtagger at the work of the Lord, but in faithfulneſſe follow him in the work of <hi>Reformation and Li<g ref="char:EOLhyphen"/>berty in Truth,</hi> or elſe thoſe that have the preſent opportunity given into their hands, which is very great, ſhall be broken in pieces as thoſe that have conſulted with fleſh and blood, and aſked not Counſel of the Lord, but gainſayed the Sp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of our God which worketh in his Saints and ſer<g ref="char:EOLhyphen"/>vants,
+<pb n="6" facs="tcp:172450:5" rendition="simple:additions"/>and cryeth out for <hi>Reformation,</hi> which muſt have free <hi>Liberty</hi> to ma<g ref="char:EOLhyphen"/>nifeſt it ſelf without the reſtraint of mans Laws, or elſe the Father of ſpi<g ref="char:EOLhyphen"/>rits will manifeſt his power to break the oppoſers to pieces, even as a pot<g ref="char:EOLhyphen"/>ters veſſell, for he will eaſe him of his adverſaries and avenge him of his enemies, the mouth of the Lord hath ſpoken it, the Decree is gone forth and the execution haſtenes.</p>
+            <p>Deſpiſe not prophecyings, quench not the Spirit which burns like a fire againſt the wicked, and ſhall not ceaſe untill they be utterly conſu<g ref="char:EOLhyphen"/>med.</p>
+            <p>Verily the <hi>burden</hi> of the Lord is great in this matter, and the blood of the ſlain cries lowd for Juſtice upon the oppreſſor, yea the dumb creatures cryes out againſt cruelty, and the ſpirit ſaith, How long Lord, how long ſhall it be ere Truth and righteouſneſſe ſhal be brought forth in the earth, where the Lord muſt reigne, yea the whole Creation groans to be delivered from the bondage of Corruption; and ſhall not the God of the wh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do juſt? yea verily he wil perfect deliverance for his people, and make ſpee<g ref="char:EOLhyphen"/>dy inquiſition for the <hi>blood</hi> of the ſlain, and take an account of all the cruel <hi>ſufferings</hi> and oppreſſions of his faithful witneſſes and ſervants; And all this will the Lord require at the hands of thoſe in <hi>power</hi> in this Nati<g ref="char:EOLhyphen"/>on, that have had, and now have a <hi>DAY</hi> to remove cruelty, tyranny and oppreſſion from amongſt this people, and do not prevent his judgements by a ſpeedy and diligent going on with the Lords work required of them, and that in faithfulneſſe and uprightneſſe of heart to the Lord. That juſt and <hi>Righteous Laws</hi> may be eſtabliſhed and executed in the earth, an<g ref="char:EOLhyphen"/>ſwering <hi>the witneſſe of God</hi> in all men, that righteouſneſſe may run down as a river, and Juſtice and true Judgement as a mighty ſtream, to the terror of the evil doers, and to the refreſhment and joy of thoſe that fear the Lord in the land, whoſe fear is not taught them by the precepts of men, as much of the Nations is, whereby moſt of the people are ſwallowed up.</p>
+            <closer>
+               <dateline>
+                  <date>The eight moneth, 1659.</date>
+               </dateline>
+               <signed>This in the Lords fear do I give forth and teſtifie, who am a Lover of Righteouſneſſe, and a Friend to the peace and welfare of the Nation, <hi>JOHN ANDERDON.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
